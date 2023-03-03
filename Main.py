@@ -4,10 +4,10 @@ from PIL import Image
 
 
 # Confit
-st.set_page_config(page_title='Lorem Ipsum', page_icon=':bar_chart:', layout='wide')
+st.set_page_config(page_title='Head Page', page_icon=':bar_chart:', layout='wide')
 
 # Title
-st.title('Lorem Ipsum')
+st.title('This is a headpage that will redirect to the other areas')
 
 st.write(
     """Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quam elementum pulvinar etiam non quam lacus. Ultrices mi tempus imperdiet nulla malesuada pellentesque. Vestibulum rhoncus est pellentesque elit ullamcorper dignissim cras tincidunt. Ac orci phasellus egestas tellus rutrum tellus pellentesque eu tincidunt. Purus semper eget duis at. Mauris cursus mattis molestie a iaculis at erat pellentesque. Semper auctor neque vitae tempus quam. Quis hendrerit dolor magna eget est lorem. Accumsan tortor posuere ac ut consequat. Sed blandit libero volutpat sed cras. Amet nulla facilisi morbi tempus.
@@ -34,3 +34,4 @@ with c2:
     st.info('**GitHub: [@]()**', icon="💻")
 with c3:
     st.info('**Data: []()**', icon="🧠")
+
